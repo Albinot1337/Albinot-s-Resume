@@ -88,6 +88,6 @@ audio {
   background-color: #1098ad;
 }
 
-.audio:hover {
+audio:hover {
   width: 88%;
 }
