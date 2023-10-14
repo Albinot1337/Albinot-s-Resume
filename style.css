@@ -74,3 +74,20 @@ body {
 .unordered li {
   margin-bottom: 12px;
 }
+
+.presentation-text {
+  font-size: 18px;
+  color: #999;
+  margin-bottom: 24px;
+}
+
+audio {
+  width: 80%;
+  padding: 6px 24px;
+  margin-bottom: 16px;
+  background-color: #1098ad;
+}
+
+.audio:hover {
+  width: 88%;
+}
