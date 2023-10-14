@@ -12,3 +12,65 @@ body {
   font-size: 48px;
   margin: 36px 0 24px 0;
 }
+
+.first-p {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.social-media {
+  font-size: 18px;
+  color: #777;
+  margin-bottom: 18px;
+}
+
+.span-1 {
+  color: #1098ad;
+}
+
+.span-1:hover {
+  color: #000;
+  font-size: 18px;
+}
+
+.facebook:link,
+.facebook:visited {
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+}
+
+.facebook:hover,
+.facebook:active {
+  color: #109dad;
+  font-size: 18px;
+  border-bottom: 1px solid #000;
+}
+
+.headshoot {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.heading-secondary {
+  font-size: 24px;
+  color: #000;
+  margin-bottom: 16px;
+}
+
+.unordered {
+  list-style: none;
+  margin-left: 16px;
+  margin-bottom: 24px;
+}
+
+.unordered li:nth-child(odd) {
+  font-style: italic;
+}
+.unordered li:nth-child(even) {
+  color: #777;
+}
+
+.unordered li {
+  margin-bottom: 12px;
+}
