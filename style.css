@@ -56,6 +56,10 @@ body {
   width: 300px;
 }
 
+figcaption {
+  margin-bottom: 18px;
+}
+
 .heading-secondary {
   font-size: 24px;
   color: #000;
