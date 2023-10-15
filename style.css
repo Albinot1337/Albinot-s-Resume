@@ -8,6 +8,11 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
 .heading-primary {
   font-size: 48px;
   margin: 36px 0 24px 0;
@@ -48,8 +53,7 @@ body {
 }
 
 .headshoot {
-  width: 100%;
-  margin-bottom: 24px;
+  width: 300px;
 }
 
 .heading-secondary {
@@ -90,4 +94,5 @@ audio {
 
 audio:hover {
   width: 88%;
+  background-color: #777;
 }
